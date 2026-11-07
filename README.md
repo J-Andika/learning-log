@@ -1,0 +1,1 @@
+Hi nama saya Johanes Andika, ini adalah repo pertama saya dan commit pertama saya, tujuan saya melakukan ini untuk belajar git sebagai version control, doakan semoga lancar dan tidak mudah bosan dalam belajar

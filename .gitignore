@@ -1,0 +1,4 @@
+shop.sqlite
+__pycache__/
+*.pyc
+.venv/
